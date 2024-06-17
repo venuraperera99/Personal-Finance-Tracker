@@ -4,7 +4,7 @@ This is a Personal Finance Tracker for people who are having trouble budgeting i
 
 ## Live Demo
 
-Check out the live demo [here](https://venuraperera99.github.io/Personal-Finance-Tracker).
+Check out the live demo [here](https://venuraperera99.github.io/).
 
 ## Features
 
